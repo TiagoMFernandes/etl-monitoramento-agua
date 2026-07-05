@@ -1,0 +1,5 @@
+pandas==2.1.4
+numpy==1.26.3
+sqlalchemy==2.0.25
+loguru==0.7.2
+python-dotenv==1.0.0
